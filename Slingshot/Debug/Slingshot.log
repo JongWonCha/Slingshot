@@ -1,0 +1,41 @@
+﻿  소스.cpp
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(34): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(81): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(263): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(437): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(499): warning C4838: 'int'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(499): warning C4244: '초기화 중': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(531): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(532): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(533): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(590): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(600): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(604): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(621): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(637): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(688): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(689): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(700): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(707): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(715): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(725): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(732): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(740): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(785): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(789): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(794): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(794): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(800): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(800): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(806): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(806): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(812): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(812): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(821): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(862): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(865): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(866): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(879): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hhg\desktop\프로그래밍\컴퓨터 그래픽스\slingshot\slingshot\소스.cpp(880): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Slingshot.vcxproj -> C:\Users\HHG\Desktop\프로그래밍\컴퓨터 그래픽스\Slingshot\Debug\Slingshot.exe
+  Slingshot.vcxproj -> C:\Users\HHG\Desktop\프로그래밍\컴퓨터 그래픽스\Slingshot\Debug\Slingshot.pdb (Full PDB)
